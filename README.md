@@ -1,17 +1,22 @@
 # VIKASH K — Digital Studio Developer Portfolio
 
-Modern, high-velocity personal engineering portfolio built with **React + Vite + Tailwind CSS + Framer Motion**, featuring a digital studio editorial aesthetic, dual-theme support (Dark Mode default & clean White Background Light Mode), and Times New Roman typography styling.
+[![Live Production](https://img.shields.io/badge/Live_Site-Vercel-black?style=for-the-badge&logo=vercel)](https://portfolio-orpin-iota-94.vercel.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github)](https://github.com/vikashk2024-stack/Portfolio)
+
+> **Live Production Website**: [https://portfolio-orpin-iota-94.vercel.app/](https://portfolio-orpin-iota-94.vercel.app/)
+
+Modern, high-velocity personal engineering portfolio built with **React + Vite + Tailwind CSS + Framer Motion**, featuring a digital studio editorial aesthetic inspired by **TailGrids NexStudio**, dual-theme support (Dark Mode default & clean White Background Light Mode), Times New Roman typography styling, and an autonomous **Vikash-AI** agentic bot.
 
 ---
 
 ## ⚡ Key Highlights & Architecture
 
-- **Typography**: Refined Times New Roman (`"Times New Roman", Times, Georgia, serif`) display headings and editorial descriptions paired with `JetBrains Mono` for metadata tags and code badges.
+- **TailGrids NexStudio Design System**: Sticky glass header with "Let's Talk" CTA, split typography hero, 4-column live metrics ribbon (`99.9% Uptime`, `< 50ms Inference`, `5+ Scaled Systems`, `2028 VIT Chennai`), and pre-footer conversion banner.
+- **Typography**: Refined Times New Roman (`"Times New Roman", Times, Tinos, Georgia, serif`) across all headings, body text, buttons, and badges.
 - **Dual-Theme Support**:
-  - **Dark Mode**: Near-black `#0a0a0a` backdrop, dark studio cards `#121212`, off-white text `#f4f4f5`, and electric sky blue `#38bdf8` accents.
+  - **Dark Mode**: Near-black `#0a0a0a` backdrop, dark studio cards `#121212`, off-white high-contrast text `#f4f4f5`, and electric sky blue `#38bdf8` accents.
   - **Light Mode (White Background)**: Pure white `#ffffff` backdrop, crisp dark charcoal text `#0f172a`, elevated white cards with subtle borders `#e2e8f0`, and deep oceanic blue `#0284c7` accents.
-- **Digital Studio Hero**: Bold split-line heading, positioning statement, two-button CTA group (`View Work` & `Download Resume`), interactive abstract architecture HUD preview, and infinite scrolling skills marquee.
-- **Autonomous AI Terminal**: Floating interactive `Vikash-AI Terminal` dock capable of answering recruiter questions about projects, academic background at VIT Chennai, research at IIIT Kottayam, and contact details.
+- **Autonomous AI Terminal**: Floating interactive `Vikash-AI` dock trained across 13 engineering domains, capable of answering questions about Agentic AI loops, full-stack projects, research at IIIT Kottayam, and credentials.
 
 ---
 
